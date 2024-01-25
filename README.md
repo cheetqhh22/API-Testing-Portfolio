@@ -1,2 +1,2 @@
 # Trello-REST-API
-The Trello REST API project is an API testing project using Postman.
+The Trello REST API and REQRES projects are API testing projects using Postman.
