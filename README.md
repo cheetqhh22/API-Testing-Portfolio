@@ -6,7 +6,7 @@ The portfolio collection consists of Trello REST API and REQRES projects.
 ---
 You can run my portfolio collection by 
 
-📥downloading it from the [Portfolio.postman_collection](API-Testing-Portfolio/Portfolio.postman_collection.json) file
+📥downloading it from the [Portfolio.postman_collection](Portfolio.postman_collection.json) file
 
 📥importing the file to the Postman
 
